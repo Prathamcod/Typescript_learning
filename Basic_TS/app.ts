@@ -1,4 +1,4 @@
-let username: string = "Pratham";
+var username: string = "Pratham";
 
 console.log(username);
 
