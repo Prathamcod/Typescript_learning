@@ -140,7 +140,7 @@ console.log(userId);
 // value = 100;
 // console.log(value);
 
-type User = {
+/* type User = {
   name: string;
   age: number;
 } | null;
@@ -151,7 +151,7 @@ let user: User = {
 
 console.log(user);
 user = null;
-console.log(user);
+console.log(user); */
 
 //  Literal Union Types
 type direction = "Left " | "right" | "up" | "down";
